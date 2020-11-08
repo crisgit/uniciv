@@ -28,7 +28,7 @@
 
         <v-card-actions>
           <v-btn class="success" @click="novo">Novo</v-btn>
-          <v-btn class="primary mr-3" @click="salvar">Salvar</v-btn>
+          <v-btn class="primary mr-3" @click="salvar">salvar</v-btn>
         </v-card-actions>
       </v-card>
     </v-col>
